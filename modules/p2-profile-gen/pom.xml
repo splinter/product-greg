@@ -219,6 +219,15 @@
                                     <!--org.wso2.governance:org.wso2.stratos.governance.ui.feature:${project.version}-->
                                 <!--</featureArtifactDef>-->
 
+
+                                <!--ES-->
+                                <featureArtifactDef>
+                                    org.wso2.store:org.wso2.store.feature:1.1.0
+                                </featureArtifactDef>
+
+                                <!--End of ES-->
+
+
                                 <!--Asset Store Feature list -->
                                 <featureArtifactDef>org.jaggeryjs:org.jaggeryjs.feature:${jaggery.version}
                                 </featureArtifactDef>
@@ -619,6 +628,11 @@
                                 <feature>
                                     <id>org.wso2.carbon.identity.authenticator.saml2.sso.ui.feature.group</id>
                                     <version>${carbon.platform.version}</version>
+                                </feature>
+
+                                <feature>
+                                    <id>org.wso2.store.feature.group</id>
+                                    <version>1.1.0</version>
                                 </feature>
 
                                 <!-- Features related to Asset Store -->
