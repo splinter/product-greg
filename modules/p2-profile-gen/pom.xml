@@ -608,10 +608,19 @@
                                     <id>org.wso2.governance.styles.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
+
+                                <!-- Greg Jaggery Apps -->
                                 <feature>
                                     <id>org.wso2.governance.jaggeryapps.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
+
+                                <!-- ES-->
+                                <feature>
+                                    <id>org.wso2.store.feature.group</id>
+                                    <version>1.1.0</version>
+                                </feature>
+
                                 <!--<feature>-->
                                     <!--<id>org.wso2.stratos.governance.ui.feature.group</id>-->
                                     <!--<version>${project.version}</version>-->
@@ -806,9 +815,17 @@
                                     <id>org.wso2.governance.styles.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
+
+                                <!-- Greg Jaggery Apps -->
                                  <feature>
                                     <id>org.wso2.governance.jaggeryapps.feature.group</id>
                                     <version>${pom.version}</version>
+                                </feature>
+
+                                <!-- ES-->
+                                <feature>
+                                    <id>org.wso2.store.feature.group</id>
+                                    <version>1.1.0</version>
                                 </feature>
 
 
@@ -1073,11 +1090,18 @@
                                     <id>org.wso2.governance.styles.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
+
+                                <!-- Greg Jaggery Apps -->
                                  <feature>
                                     <id>org.wso2.governance.jaggeryapps.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
 
+                                <!-- ES-->
+                                <feature>
+                                    <id>org.wso2.store.feature.group</id>
+                                    <version>1.1.0</version>
+                                </feature>
 
                                 <!--<feature>-->
                                     <!--<id>org.wso2.stratos.governance.ui.feature.group</id>-->
