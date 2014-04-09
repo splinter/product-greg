@@ -615,6 +615,7 @@
                                     <version>${pom.version}</version>
                                 </feature>
 
+
                                 <!-- ES-->
                                 <feature>
                                     <id>org.wso2.store.feature.group</id>
@@ -1085,7 +1086,6 @@
                                     <id>org.wso2.governance.styles.feature.group</id>
                                     <version>${pom.version}</version>
                                 </feature>
-
                                 <!-- Greg Jaggery Apps -->
                                  <feature>
                                     <id>org.wso2.governance.jaggeryapps.feature.group</id>
