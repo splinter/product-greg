@@ -222,7 +222,7 @@
 
                                 <!--ES-->
                                 <featureArtifactDef>
-                                    org.wso2.store:org.wso2.store.feature:1.0.0
+                                    org.wso2.store:org.wso2.store.feature:${enterprise.store.version}
                                 </featureArtifactDef>
 
                                 <!--End of ES-->
@@ -618,7 +618,7 @@
                                 <!-- ES-->
                                 <feature>
                                     <id>org.wso2.store.feature.group</id>
-                                    <version>1.0.0</version>
+                                    <version>${enterprise.store.version}</version>
                                 </feature>
 
                                 <!--<feature>-->
@@ -818,10 +818,10 @@
                                 </feature>
 
                                 <!-- ES-->
-                                <!--feature>
+                                <feature>
                                     <id>org.wso2.store.feature.group</id>
-                                    <version>1.1.0</version>
-                                </feature-->
+                                    <version>${enterprise.store.version}</version>
+                                </feature>
 
 
                                 <!--<feature>-->
@@ -1095,9 +1095,9 @@
                                 <!-- ES-->
                                 <feature>
                                     <id>org.wso2.store.feature.group</id>
-                                    <version>1.1.0</version>
+                                    <version>${enterprise.store.version}</version>
                                 </feature>
-                                
+
                                 <!--<feature>-->
                                     <!--<id>org.wso2.stratos.governance.ui.feature.group</id>-->
                                     <!--<version>${project.version}</version>-->
