@@ -227,6 +227,48 @@
 
                                 <!--End of ES-->
 
+                                <!-- Enterprise Store Modules-->
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:caramel.feature:${caramel.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:handlebars.feature:${handlebars.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:markdown.feature:${markdown.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:carbon.feature:${carbon.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:process.feature:${process.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.jaggeryjs.modules:uuid.feature:${uuid.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.wso2.store.modules:sso.feature:${sso.feature.version}
+                                </featureArtifactDef>
+                                 <featureArtifactDef>
+                                    org.wso2.store.modules:claims.feature:${claims.feature.version}
+                                </featureArtifactDef>
+                                 <featureArtifactDef>
+                                    org.wso2.store.modules:store.feature:${store.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.wso2.store.modules:ues.feature:${ues.feature.version}
+                                </featureArtifactDef>
+                                 <featureArtifactDef>
+                                    org.wso2.store.modules:registration.feature:${registration.feature.version}
+                                </featureArtifactDef>
+                                 <featureArtifactDef>
+                                    org.wso2.store.modules:permission.feature:${permission.feature.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
+                                    org.wso2.store.modules:login.feature:${login.feature.version}
+                                </featureArtifactDef>
+
+
 
                                 <!--Asset Store Feature list -->
                                 <featureArtifactDef>org.jaggeryjs:org.jaggeryjs.feature:${jaggery.version}
