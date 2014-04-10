@@ -331,7 +331,7 @@
         <log4j.version>1.2.13</log4j.version>
         <commons.logging.version>1.1</commons.logging.version>
         <emma.version>2.1.5320</emma.version>
-        <enterprise.store.version>1.0.1</enterprise.store.version>
+        <enterprise.store.version>1.1.0</enterprise.store.version>
 
         <!--Enterprise Store Modules-->
         <caramel.feature.version>1.0.1</caramel.feature.version>
@@ -348,5 +348,6 @@
         <registration.feature.version>1.0.0</registration.feature.version>
         <permission.feature.version>1.0.0</permission.feature.version>
         <login.feature.version>1.0.0</login.feature.version>
+        <patch.version.421>4.2.1</patch.version.421>
     </properties>
 </project>
