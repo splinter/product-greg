@@ -349,7 +349,7 @@
         <version.jaxen>1.1.1</version.jaxen>
         <orbit.version.wsdl4j>1.6.2.wso2v4</orbit.version.wsdl4j>
         <commons.digester.version>1.8.1</commons.digester.version>
-        <junit.version>3.8.1</junit.version>
+        <junit.version>4.13.1</junit.version>
         <javax.mail.version>1.4.4</javax.mail.version>
         <javax.activation.version>1.1.1</javax.activation.version>
         <wstx.asl.version>3.2.9</wstx.asl.version>
